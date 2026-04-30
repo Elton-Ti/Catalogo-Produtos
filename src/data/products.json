@@ -2,12 +2,12 @@
   {
     "id": "VX-1001",
     "name": "Gol 1.0",
-    "price": 12500 ,
+    "price": 12500,
     "category": "Veículos",
     "store": "Barigui Curitiba",
     "status": "available",
     "createdAt": "2025-07-10T10:00:00Z",
-    "images": ["https://picsum.photos/seed/vx1001/800/450"],
+    "images": ["https://loremflickr.com/800/450/volkswagen,car?lock=1001"],
     "description": "Hatch, baixo consumo, completo."
   },
   {
@@ -18,7 +18,7 @@
     "store": "Barigui Joinville",
     "status": "unavailable",
     "createdAt": "2025-07-18T10:00:00Z",
-    "images": ["https://picsum.photos/seed/vx1002/800/450"],
+    "images": ["https://loremflickr.com/800/450/hatchback,car?lock=1002"],
     "description": "Compacto ágil, ideal para cidade."
   },
   {
@@ -29,7 +29,7 @@
     "store": "Barigui Curitiba",
     "status": "available",
     "createdAt": "2025-07-20T12:30:00Z",
-    "images": ["https://picsum.photos/seed/vx1003/800/450"],
+    "images": ["https://loremflickr.com/800/450/suv,car?lock=1003"],
     "description": "SUV potente, ideal para família e aventuras."
   },
   {
@@ -40,7 +40,7 @@
     "store": "Barigui Joinville",
     "status": "available",
     "createdAt": "2025-07-22T09:00:00Z",
-    "images": ["https://picsum.photos/seed/vx1004/800/450"],
+    "images": ["https://loremflickr.com/800/450/pickup,truck?lock=1004"],
     "description": "Pickup robusta, perfeita para trabalho e lazer."
   },
   {
@@ -51,7 +51,7 @@
     "store": "Barigui Curitiba",
     "status": "unavailable",
     "createdAt": "2025-07-25T11:15:00Z",
-    "images": ["https://picsum.photos/seed/vx1005/800/450"],
+    "images": ["https://loremflickr.com/800/450/sedan,car?lock=1005"],
     "description": "Sedan econômico, ideal para quem roda na cidade."
   },
   {
@@ -62,7 +62,7 @@
     "store": "Loja Centro",
     "status": "available",
     "createdAt": "2025-08-01T15:20:00Z",
-    "images": ["https://picsum.photos/seed/el2001/800/450"],
+    "images": ["https://loremflickr.com/800/450/laptop,macbook?lock=2001"],
     "description": "Tela 14”, 16GB RAM, 512GB SSD."
   },
   {
@@ -73,7 +73,7 @@
     "store": "Loja Centro",
     "status": "available",
     "createdAt": "2025-08-03T10:10:00Z",
-    "images": ["https://picsum.photos/seed/el2002/800/450"],
+    "images": ["https://loremflickr.com/800/450/smartphone,iphone?lock=2002"],
     "description": "Tela AMOLED, 128GB, câmera 108MP."
   },
   {
@@ -84,7 +84,7 @@
     "store": "Loja Norte",
     "status": "unavailable",
     "createdAt": "2025-08-05T14:00:00Z",
-    "images": ["https://picsum.photos/seed/el2003/800/450"],
+    "images": ["https://loremflickr.com/800/450/tablet,ipad?lock=2003"],
     "description": "Perfeito para estudo e entretenimento, leve e potente."
   },
   {
@@ -95,7 +95,7 @@
     "store": "Loja Norte",
     "status": "available",
     "createdAt": "2025-08-06T09:30:00Z",
-    "images": ["https://picsum.photos/seed/el2004/800/450"],
+    "images": ["https://loremflickr.com/800/450/headphones,wireless?lock=2004"],
     "description": "Fone sem fio com cancelamento de ruído."
   },
   {
@@ -106,7 +106,7 @@
     "store": "Loja Centro",
     "status": "available",
     "createdAt": "2025-08-07T13:45:00Z",
-    "images": ["https://picsum.photos/seed/el2005/800/450"],
+    "images": ["https://loremflickr.com/800/450/monitor,screen?lock=2005"],
     "description": "Excelente para trabalho e games, resolução 4K."
   },
   {
@@ -117,7 +117,7 @@
     "store": "Barigui Curitiba",
     "status": "available",
     "createdAt": "2025-07-28T10:00:00Z",
-    "images": ["https://picsum.photos/seed/vx1006/800/450"],
+    "images": ["https://loremflickr.com/800/450/car,city?lock=1006"],
     "description": "Compacto econômico, ideal para quem roda muito na cidade."
   },
   {
@@ -128,7 +128,7 @@
     "store": "Barigui Joinville",
     "status": "unavailable",
     "createdAt": "2025-07-30T12:15:00Z",
-    "images": ["https://picsum.photos/seed/vx1007/800/450"],
+    "images": ["https://loremflickr.com/800/450/suv,family?lock=1007"],
     "description": "SUV espaçoso, confortável para toda família."
   },
   {
@@ -139,7 +139,7 @@
     "store": "Barigui Curitiba",
     "status": "available",
     "createdAt": "2025-08-01T09:20:00Z",
-    "images": ["https://picsum.photos/seed/vx1008/800/450"],
+    "images": ["https://loremflickr.com/800/450/coupe,car?lock=1008"],
     "description": "Coupe elegante, desempenho esportivo."
   },
   {
@@ -150,7 +150,7 @@
     "store": "Loja Norte",
     "status": "available",
     "createdAt": "2025-08-08T11:30:00Z",
-    "images": ["https://picsum.photos/seed/el2006/800/450"],
+    "images": ["https://loremflickr.com/800/450/smartwatch,applewatch?lock=2006"],
     "description": "Monitore saúde e atividades com estilo."
   },
   {
@@ -161,7 +161,7 @@
     "store": "Loja Centro",
     "status": "unavailable",
     "createdAt": "2025-08-09T14:45:00Z",
-    "images": ["https://picsum.photos/seed/el2007/800/450"],
+    "images": ["https://loremflickr.com/800/450/headset,gaming?lock=2007"],
     "description": "Som imersivo, microfone retrátil."
   },
   {
@@ -172,7 +172,7 @@
     "store": "Barigui Joinville",
     "status": "available",
     "createdAt": "2025-08-03T10:50:00Z",
-    "images": ["https://picsum.photos/seed/vx1009/800/450"],
+    "images": ["https://loremflickr.com/800/450/pickup,offroad?lock=1009"],
     "description": "Potente e resistente, perfeita para terrenos difíceis."
   },
   {
@@ -183,7 +183,7 @@
     "store": "Barigui Curitiba",
     "status": "available",
     "createdAt": "2025-08-05T11:10:00Z",
-    "images": ["https://picsum.photos/seed/vx1010/800/450"],
+    "images": ["https://loremflickr.com/800/450/sedan,luxury?lock=1010"],
     "description": "Sedan elegante, confortável e tecnológico."
   },
   {
@@ -194,7 +194,7 @@
     "store": "Loja Centro",
     "status": "available",
     "createdAt": "2025-08-10T12:00:00Z",
-    "images": ["https://picsum.photos/seed/el2008/800/450"],
+    "images": ["https://loremflickr.com/800/450/tablet,stylus?lock=2008"],
     "description": "Tablet avançado, ideal para profissionais criativos."
   },
   {
@@ -205,7 +205,7 @@
     "store": "Loja Norte",
     "status": "available",
     "createdAt": "2025-08-11T09:25:00Z",
-    "images": ["https://picsum.photos/seed/el2009/800/450"],
+    "images": ["https://loremflickr.com/800/450/camera,mirrorless?lock=2009"],
     "description": "Câmera compacta, fotos e vídeos de alta qualidade."
   },
   {
@@ -216,7 +216,7 @@
     "store": "Loja Centro",
     "status": "unavailable",
     "createdAt": "2025-08-12T10:15:00Z",
-    "images": ["https://picsum.photos/seed/el2010/800/450"],
+    "images": ["https://loremflickr.com/800/450/speaker,bluetooth?lock=2010"],
     "description": "Som potente, resistente à água."
   }
 ]
